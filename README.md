@@ -1,5 +1,9 @@
-### Hi there 👋
+### Presentación
+Hola mi nombre es Santiago Quintero Uribe, estudiante del programa de Ingenieria de Sistemas y Computación, de la Universidad del Quindio.
+Actualmente me interesa mucho aprender programación diferentes conceptos y temas de programación, esto lo apoyo con la participación en los
+grupos de programacion competitiva, y los espacios academicos del programa.
 
+Me interesa mucho el BackEnd y aprender los diferentes conceptos que componen esta area, aunque tambien presento interes por la area del FrontEnd
 <!--
 **Tourment0412/Tourment0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
